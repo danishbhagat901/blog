@@ -1,5 +1,5 @@
 <?php
-include 'include/header.php'
+include 'include/header.php';
 ?>
 
   <main id="main">
@@ -43,12 +43,12 @@ include 'include/header.php'
         <div class="form mt-5">
           <form action="forms/contact.php" method="post" role="form" class="php-email-form">
             <div class="row">
-              <div class="form-group col-md-6">
+              <!-- <div class="form-group col-md-6">
                 <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
               </div>
               <div class="form-group col-md-6">
                 <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
-              </div>
+              </div> -->
             </div>
             <div class="form-group">
               <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
@@ -61,7 +61,7 @@ include 'include/header.php'
               <div class="error-message"></div>
               <div class="sent-message">Your message has been sent. Thank you!</div>
             </div>
-            <div class="text-center"><button type="submit">Send Message</button></div>
+            <div class="text-center"><a href="login.php"><button type="submit">Send Message</button></a></div>
           </form>
         </div><!-- End Contact Form -->
 
@@ -71,5 +71,5 @@ include 'include/header.php'
   </main><!-- End #main -->
 
 <?php
-include 'include/footer.php'
+include 'include/footer.php';
 ?>

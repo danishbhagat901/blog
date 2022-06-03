@@ -14,7 +14,7 @@ include 'include/header.php';
             <div class="swiper sliderFeaturedPosts">
               <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                  <a href="single-post.html" class="img-bg d-flex align-items-end" style="background-image: url('images/4.jpg');">
+                  <a href="single-post.php" class="img-bg d-flex align-items-end" style="background-image: url('images/4.jpg');">
                     <div class="img-bg-inner">
                       <h2>Next Generation UI/UX Designing</h2>
                     </div>
@@ -22,7 +22,7 @@ include 'include/header.php';
                 </div>
 
                 <div class="swiper-slide">
-                  <a href="single-post.html" class="img-bg d-flex align-items-end" style="background-image: url('images/2.jpg');">
+                  <a href="single-post.php" class="img-bg d-flex align-items-end" style="background-image: url('images/2.jpg');">
                     <div class="img-bg-inner">
                       <h2>Software Development & Education Company.</h2>
                     </div>
@@ -30,7 +30,7 @@ include 'include/header.php';
                 </div>
 
                 <div class="swiper-slide">
-                  <a href="single-post.html" class="img-bg d-flex align-items-end" style="background-image: url('images/3.jpg');">
+                  <a href="single-post.php" class="img-bg d-flex align-items-end" style="background-image: url('images/3.jpg');">
                     <div class="img-bg-inner">
                       <h2>We do IT.</h2>
                     </div>
@@ -38,7 +38,7 @@ include 'include/header.php';
                 </div>
 
                 <div class="swiper-slide">
-                  <a href="single-post.html" class="img-bg d-flex align-items-end" style="background-image: url('images/1.jpg');">
+                  <a href="single-post.php" class="img-bg d-flex align-items-end" style="background-image: url('images/1.jpg');">
                     <div class="img-bg-inner">
                       <h2>Ready for the future.</h2>
                     </div>
